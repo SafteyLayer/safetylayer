@@ -161,4 +161,4 @@ Cost to discover: $0.04 (60 tests across 4 runs)
 
 GitHub: https://github.com/SafetyLayer/safetylayer
 
-Built SafetyLayer to find these systematically. Free assessments available.
+Built SafetyLayer to find these systematically. 
