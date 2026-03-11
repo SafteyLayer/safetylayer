@@ -115,42 +115,18 @@ This discovery shows:
    - 75% of runs leaked, 25% didn't
    - One-time audits miss this pattern
 
-## Contact
-
-**Free security assessments available**
 
 Built SafetyLayer to find these systematically. Testing across GPT-4, Claude, Gemini, and Llama.
 
 DM: [@NGeruson83942](https://twitter.com/NGeruson83942)
 
-## License
 
 MIT License - See LICENSE file
 ```
 
----
-
-## ✅ **AFTER YOU PASTE:**
-
-1. **Scroll to bottom**
-2. **Click "Commit changes"**
-3. **Your GitHub repo is DONE**
-
----
-
-## 🚀 **THEN IMMEDIATELY POST TO HN:**
-
-**Your GitHub link:**
-```
 https://github.com/SafetyLayer/safetylayer
 ```
-
-**HN Title:**
-```
-Show HN: GPT-4 leaks its own API internals through training data exposure
-```
-
-**HN Text:**
+ GPT-4 leaks its own API internals through training data exposure
 ```
 I ran the same AI security test 4 times against GPT-4. Every bypass - 
 regardless of prompt - leaked the same credential: EPHEMERAL_KEY from 
