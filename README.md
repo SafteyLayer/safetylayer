@@ -14,4 +14,3 @@ Once first-order strings (ek_, EPHEMERAL_KEY) are suppressed, we pivot to the un
 
 These are the next semantic shell. The paradox: suppressing the key name also risks suppressing legitimate debugging of these functions.
 
-Baseline probes frozen: [date + SHA-256 hash of baselines ZIP]
